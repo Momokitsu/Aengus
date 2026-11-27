@@ -19,3 +19,5 @@ bin-release/
 
 [Bb]uild
 third_party/output
+
+cpp_naming_conventions.md
